@@ -1,0 +1,6 @@
+[kepco]
+URL = https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/A/CYEAPP001_esb.jsp
+
+[user]
+USER_ID = 
+USER_PASS = 
